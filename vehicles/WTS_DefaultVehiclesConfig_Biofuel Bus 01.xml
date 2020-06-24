@@ -1,0 +1,135 @@
+<vehicleDescriptors>
+  <vehicleDescriptor vehicleAssetName="Biofuel Bus 01">
+    <position x="0" y="0" z="0" />
+    <rotation x="0" y="0" z="0" />
+    <scale x="1" y="1" z="1" />
+    <textDescriptor textScale="0.6" maxWidth="1.11" applyOverflowResizingOnY="false" textAlign="Center" textContent="LastStopLine" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="ElectronicBoards" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Destination">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="-0.37" y="2.6" z="5.747" />
+        <rotation x="-3.5" y="0" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="false" color="FFD600" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="BRIGHT" strength="0.275" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="444343">
+        <size x="1.26" y="0.31" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="0.6" maxWidth="0.5" applyOverflowResizingOnY="false" textAlign="Center" textContent="LineIdentifier" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="ElectronicBoards" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="LineID">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="0.61" y="2.6" z="5.747" />
+        <rotation x="-3.5" y="0" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="false" color="FFD600" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="BRIGHT" strength="0.275" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="444343">
+        <size x="0.7" y="0.31" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="2.2" maxWidth="1.74" applyOverflowResizingOnY="false" textAlign="Center" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Number roof">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="0" y="2.878" z="-3.74" />
+        <rotation x="-90" y="0" z="180" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="true" color="000000" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="1.2" maxWidth="1.7" applyOverflowResizingOnY="false" textAlign="Left" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Number R">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="1.285" y="0.83" z="1" />
+        <rotation x="0" y="90" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="true" color="000000" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="1.2" maxWidth="1.7" applyOverflowResizingOnY="false" textAlign="Left" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Number L">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="-1.285" y="0.83" z="1" />
+        <rotation x="0" y="-90" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="true" color="000000" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="0.6" maxWidth="1.93" applyOverflowResizingOnY="false" textAlign="Right" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Number back">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="0" y="1.1" z="-6.192" />
+        <rotation x="0" y="180" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="true" color="000000" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="0.6" maxWidth="0.7" applyOverflowResizingOnY="false" textAlign="Right" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Number Front">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="0" y="0.89" z="5.599" />
+        <rotation x="0" y="0" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="false" color="000000" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="0.58" maxWidth="0.25" applyOverflowResizingOnY="false" textAlign="Center" textContent="LineIdentifier" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="ElectronicBoards" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Line id back">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="0" y="2.55" z="-6.159" />
+        <rotation x="-3.2" y="180" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="false" color="FFD600" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="BRIGHT" strength="0.275" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="2B2B2B">
+        <size x="0.3" y="0.2" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+  </vehicleDescriptor>
+</vehicleDescriptors>

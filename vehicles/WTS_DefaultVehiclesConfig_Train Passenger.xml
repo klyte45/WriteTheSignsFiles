@@ -1,0 +1,39 @@
+<vehicleDescriptors>
+  <vehicleDescriptor vehicleAssetName="Train Passenger">
+    <position x="0" y="0" z="0" />
+    <rotation x="0" y="0" z="0" />
+    <scale x="1" y="1" z="1" />
+    <textDescriptor textScale="1.2" maxWidth="2" applyOverflowResizingOnY="false" textAlign="Left" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Vehicle Number R">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="-1.469" y="1.11" z="0" />
+        <rotation x="2" y="-90" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="true" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+    <textDescriptor textScale="1.2" maxWidth="2" applyOverflowResizingOnY="false" textAlign="Left" textContent="OwnName" destinationRelative="Self" targetNodeRelative="0" fixedText="Text" spriteName="" fontClass="PublicTransport" allCaps="false" applyAbbreviations="true" prefix="" suffix="" saveName="Vehicle Number L">
+      <PlacingSettings cloneInvertHorizontalAlign="false" clone180DegY="false">
+        <position x="1.469" y="1.11" z="0" />
+        <rotation x="2" y="90" z="0" />
+      </PlacingSettings>
+      <ColoringSettings useContrastColor="true" />
+      <IlluminationSettings requiredFlags="0" forbiddenFlags="0" type="OPAQUE" strength="1" blinkType="None">
+        <customBlinkParams x="0" y="0" z="0" w="0" />
+      </IlluminationSettings>
+      <MultiItemSettings subItemsPerRow="1" subItemsPerColumn="1" verticalFirst="false" verticalAlign="Top">
+        <subItemSpacing x="0" y="0" />
+      </MultiItemSettings>
+      <BackgroundMeshSettings color="000000">
+        <size x="0" y="0" />
+      </BackgroundMeshSettings>
+    </textDescriptor>
+  </vehicleDescriptor>
+</vehicleDescriptors>
